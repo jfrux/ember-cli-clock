@@ -28,7 +28,7 @@
     "url": "https://github.com/jerel/ember-cli-clock/issues"
   },
   "homepage": "https://github.com/jerel/ember-cli-clock",
-  "devDependencies": {
+  "dependencies": {
     "ember-cli": "2.18.2",
     "ember-cli-babel": "^6.6.0"
   }
